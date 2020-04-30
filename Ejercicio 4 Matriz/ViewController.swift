@@ -216,6 +216,8 @@ class ViewController: UIViewController {
         opcion4 = ["1", "x","x", "x","x", "x","2", "x", "x", "x", "x", "x", "3", "x", "x", "x", "x", "x", "4", "x", "x", "x", "x", "x", "5"]
         
         opcion5 = ["5", "1","5", "1","5", "4","2", "4", "2", "4", "3", "3", "3", "3", "3", "2", "4", "2", "4", "2", "1", "5", "1", "5", "1"]
+        
+        //Putricio gerardo
     }
     
     func setupContainers(){
